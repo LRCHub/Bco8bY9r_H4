@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "劇薬中毒",
+  "base_artist": "=LOVE",
+  "createdAt": "2026-03-03T08:30:56.627781Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "劇薬中毒",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_劇薬中毒_=LOVE.txt"
+    }
+  ]
+}
